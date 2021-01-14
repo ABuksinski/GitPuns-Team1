@@ -1,2 +1,2 @@
- How do trees access the internet?
- They log on.
+How do trees access the internet?
+They log on
